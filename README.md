@@ -33,3 +33,6 @@ Para desenvolver esse projeto, primeiro realizamos a instalação de uma bibliot
 pip install pandas
 
 Em seguida, criamos um script Python chamado extrai_infos_clima.py e rodar a extração.
+
+![Captura de tela 2022-12-14 111827](https://user-images.githubusercontent.com/27660298/207619850-0bff82fd-5345-41ba-bd84-c472ea2e79ce.png)
+
